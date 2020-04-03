@@ -1,5 +1,3 @@
-                                         SQL DATABASE (RDBMS) 
-
 What is SQL?
 -> SQL stands for Structured Query Language. Essentially, it's a language that allows communication with databases in order to manage      all the data they contain. 
 -> SQL may not be a language on par with Java or C#, but it is a language nonetheless. 
