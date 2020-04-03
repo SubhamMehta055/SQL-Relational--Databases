@@ -35,4 +35,4 @@ What is MySQL?
 
 MySQL, pronounced either "My S-Q-L" or "My Sequel," is an open source relational database management system. It is based on the structured query language (SQL)  which is used for adding, removing, and modifying information in the database. 
 
-Many database-driven websites that use MySQL also use a Web scripting language like PHP to access information from the database. MySQL commands can be incorporated into the PHP code, allowing part or all of a Web page to be generated from database information. Because both MySQL and PHP are both open source (meaning they are free to download and use), the PHP/MySQL combination has become a popular choice for database-driven websites. 
+Many database-driven websites that use MySQL also use a Web scripting language like PHP to access information from the database. MySQL commands can be incorporated into the PHP code, allowing part or all of a Web page to be generated from database information. Because both MySQL and PHP are both open source (meaning they are free to download and use), the PHP/MySQL combination has become a popular choice for database-driven websites.
