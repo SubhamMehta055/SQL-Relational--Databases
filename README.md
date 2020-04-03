@@ -1,4 +1,5 @@
 What is SQL?
+
 -> SQL stands for Structured Query Language. Essentially, it's a language that allows communication with databases in order to manage      all the data they contain. 
 -> SQL may not be a language on par with Java or C#, but it is a language nonetheless. 
 -> SQL can be used to insert, search, update and delete database records. 
@@ -6,6 +7,7 @@ What is SQL?
 -> Relational databases like MySQL Database, Oracle, Ms SQL server, Sybase, etc uses SQL.
 
 What Can SQL do?
+
 SQL can execute queries against a database
 SQL can retrieve data from a database
 SQL can insert records in a database
@@ -18,7 +20,9 @@ SQL can create views in a database
 SQL can set permissions on tables, procedures, and views
 
 Using SQL in Web Site(BACK-END):
+
  To build a web site that shows data from a database, you will need:
+ 
 -> An RDBMS database program (i.e. MS Access, SQL Server, MySQL)
 -> To use a server-side scripting language, like PHP or ASP
 -> To use SQL to get the data you want
